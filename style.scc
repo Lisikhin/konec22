@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    background-color: darkblue;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(white,blue, darkblue);
+    padding: 10px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    color: darkcyan;
+     box-shadow: 10px 10px 10px 0 black;
+  
+}
+img {
+   width: 100px ;
+   transform: translateX(0px);
+   transition: 4s ease-in;
+   margin: ;
+   box-shadow: 10px 10px 10px 0 black;
+  
+  
+   
+}
+p:hover{
+      color: black;
+      background-image: linear-gradient(white,orange,red);
+   }
+
+
+
+
